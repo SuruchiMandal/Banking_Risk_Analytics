@@ -36,5 +36,5 @@ Contributions or Feedbacks are highly welcomed! If you have suggestions, improve
 ## Visual Report:
 For a detailed overview of our project, check out our video presentation here.
 
-
+[![video](https://github.com/SuruchiMandal/Banking_Risk_Analytics/blob/main/Loan%20Risk%20Analysis%20Thumbnail.png)](https://www.loom.com/share/f4bdfb15f664414583a59b8b31da5d56?sid=3113307f-6833-41d5-bfe5-17d448d497b9)
 
