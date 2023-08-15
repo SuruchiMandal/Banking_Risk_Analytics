@@ -1,0 +1,4 @@
+C:/Users/suruc/OneDrive/Desktop/Trainity/previous_application.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/suruc/OneDrive/Desktop/Trainity/previous_application.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/suruc/OneDrive/Desktop/Trainity/application_data.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/suruc/OneDrive/Desktop/Trainity/columns_description.csv filter=lfs diff=lfs merge=lfs -text
